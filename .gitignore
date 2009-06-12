@@ -1,0 +1,4 @@
+build
+test.py
+dist
+*.pyc
