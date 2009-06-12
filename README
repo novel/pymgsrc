@@ -1,0 +1,4 @@
+Command line client for imgsrc.ru photo hosting service written in Python
+
+Homepage / manual: http://people.freebsd.org/~novel/misc/pyimgsrc.html 
+Sources: http://github.com/novel/pymgsrc/tree/master
